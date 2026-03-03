@@ -1,0 +1,8 @@
+Metrica,Valor
+Total CVEs analizados,50
+CVEs Criticos (>= 9.0),50
+CVEs Alto riesgo (>= 7.0),50
+CVSS Score promedio,9.79
+Score maximo,9.8
+Vector mas frecuente,NETWORK
+CWE mas comun,CWE-193

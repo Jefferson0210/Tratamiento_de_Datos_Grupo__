@@ -1,3 +1,9 @@
+# TRABAJO SEMANA 2 GRUPO 8 
+# Integrantes: 
+## Byron Velasco
+## Edison Cofre 
+## Jefferson Ramirez
+
 # 🛡️ CyberGuard API
 ## Descripción general
 
@@ -188,6 +194,13 @@ La API se integra con dos servicios externos:
 | PyJWT | 2.9.0 | Manejo de tokens JWT |
 
 ---
+# EVIDENCIA 
+## EXTRACCIÓN DE DATOS 
+https://github.com/Jefferson0210/Tratamiento_de_Datos_Grupo__/blob/main/cyberguard-api/extracci%C3%B3n1.jpeg
 
-## Autor
+https://github.com/Jefferson0210/Tratamiento_de_Datos_Grupo__/blob/main/cyberguard-api/Extracci%C3%B3n%202.jpeg
+## API FUNCIONAL LOCALMENTE
+https://github.com/Jefferson0210/Tratamiento_de_Datos_Grupo__/blob/main/cyberguard-api/API%20funcional%201.jpeg
+
+https://github.com/Jefferson0210/Tratamiento_de_Datos_Grupo__/blob/main/cyberguard-api/API%20funcional%202.jpeg
 
